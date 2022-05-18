@@ -1,5 +1,5 @@
 # 0xSeventy
-Una tool DDoS / DoS Open Source
+Soft DDoS / DoS Open Source
 
 
 # Install
@@ -7,7 +7,7 @@ Una tool DDoS / DoS Open Source
 ```
 sudo chmod +x install.sh
 ```
-Despues se debe ejecutar esto
+And
 ```
 ./install.sh
 ```
@@ -15,10 +15,12 @@ Despues se debe ejecutar esto
 ## Windows
 
 ```
-start install.bat
+cd [folder with dos'er]
+pip install -r requirements
+py main.py [url]
 ```
 
-# Atacar
+# Type
 
 ### DDoS
 Soon...
@@ -27,9 +29,4 @@ Soon...
 python main.py <url>
 ```
 
-# Extra
-Esta herramienta suele bypassear cualquier Anti-DDoS, si no tira la página web se recomienda usar [Replit](https://replit.com) para atacar, ahí se deberá crear unos 5 proyectos y encenderlos, deberán editar el archivo .replit y reemplazar la url.
-
-# Recordatorio
-* Esta herramienta esta hecha con propositos educativos y no me hago cargo de el mal uso de esta herramienta.
-* No usar nada de JavaScript, esta en pruebas...
+# MADE IN RUSSIA
