@@ -1,0 +1,2 @@
+Крч через гитбаш открываешь папку, устонавливаешь requirements (pip install -r requirements)
+потом py main.py [url]
